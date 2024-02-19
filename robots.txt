@@ -7,5 +7,4 @@ mUtbWUtd
 GhlLWN0Zi5mbGFn
 Allow: /         
 
-Sitemap: https://www.dragon.com/sitemap.com
 public/robots.txt
